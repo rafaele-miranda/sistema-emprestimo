@@ -27,3 +27,12 @@ No terminal, execute:
 
 ```bash
 python -m pip install -r requirements.txt
+```
+
+## 🚀 Distribuição para Outras Máquinas (Opcional)
+Navegue até o diretório do seu projeto no terminal e execute o PyInstaller:
+
+```
+pyinstaller --onefile seu_script_principal.py
+
+```
