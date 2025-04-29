@@ -36,3 +36,4 @@ Navegue até o diretório do seu projeto no terminal e execute o PyInstaller:
 pyinstaller --onefile seu_script_principal.py
 
 ```
+O arquivo executável estará dentro da pasta dist.
